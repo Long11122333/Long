@@ -64,7 +64,7 @@ body {
 
 /* CV Container */
 .cv-container {
-  transform: scale(0.9); /* Giảm kích thước xuống 90% */
+  transform: scale(0.7); /* Giảm kích thước xuống 90% */
     transform-origin: top center;
     background: rgba(255, 255, 255, 0.9);
     max-width: 600px;
